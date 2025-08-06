@@ -1,0 +1,18 @@
+{
+  "name": "bot-whatsapp-peruano",
+  "version": "3.0.0",
+  "description": "Bot WhatsApp Peruano para Termux - Desarrollado por Marcos",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^1.6.0"
+  },
+  "keywords": ["whatsapp", "bot", "termux", "peru", "marcos"],
+  "author": "Marcos",
+  "license": "MIT"
+}

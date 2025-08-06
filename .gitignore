@@ -1,0 +1,6 @@
+node_modules/
+session/
+users.json
+muted.json
+*.log
+.env
